@@ -1,0 +1,18 @@
+Project TestTask {
+database_type: 'mysql'
+Note: 'Test Task Site Database'
+}
+
+Table user {
+id integer
+
+firstName varchar
+lastName varchar
+email varchar
+password varchar
+age integer
+
+}
+
+
+
